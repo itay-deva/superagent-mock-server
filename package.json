@@ -1,0 +1,7 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "superagent": "^3.8.3",
+    "superagent-mock": "^3.7.0"
+  }
+}
